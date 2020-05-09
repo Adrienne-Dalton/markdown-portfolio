@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of "Hello" Chat Bubble](http://pngimg.com/uploads/hello/hello_PNG22.png)
